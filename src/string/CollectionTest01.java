@@ -45,6 +45,7 @@ public class CollectionTest01 {
         c1.add(s1);
         String s2 = new String("abc");
         System.out.println(c1.contains(s2));
+        System.out.println("hello git");
     }
 
 
